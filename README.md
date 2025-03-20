@@ -47,7 +47,7 @@ EDA helped us understand **failure patterns and sensor behavior**. Some key insi
 
 
 ![img1](https://github.com/Chirag-Sharmaaa/Machine_Failure_Analysis/blob/main/Machine_Failure_Analysis_Project/failure%20rate%20by%20machine%20type.png)
-![Alt text](image_url_here)
+![img2](https://github.com/Chirag-Sharmaaa/Machine_Failure_Analysis/blob/main/Machine_Failure_Analysis_Project/failure%20vs%20error%20rate.png)
 ![Alt text](image_url_here)
 ![Alt text](image_url_here)
 
