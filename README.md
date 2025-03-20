@@ -46,7 +46,7 @@ EDA helped us understand **failure patterns and sensor behavior**. Some key insi
 3️⃣ **Correlation Study** – We checked if specific conditions lead to frequent failures.
 
 
-![Alt text](image_url_here)
+![img1](https://github.com/Chirag-Sharmaaa/Machine_Failure_Analysis/blob/main/Machine_Failure_Analysis_Project/failure%20rate%20by%20machine%20type.png)
 ![Alt text](image_url_here)
 ![Alt text](image_url_here)
 ![Alt text](image_url_here)
