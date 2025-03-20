@@ -11,13 +11,12 @@ Using **SQL, Python, and Excel**, we performed **data cleaning, exploratory data
 
 | File Name                       | Description |
 |---------------------------------|-------------|
-| `Predictive_maintenance_data.csv` | The dataset used for analysis. |
-| `machine_failure.sql`            | SQL queries used for data exploration and insights. |
-| `data_cleaning.py`               | Python script for cleaning the dataset. |
+| `Predictive_Maintenance_Data.csv` | The dataset used for analysis. |
+| `Machine_failure_queries.sql`            | SQL queries used for data exploration and insights. |
+| `Data_cleaning.py`               | Python script for cleaning the dataset. |
 | `EDA.py`                         | Python script for Exploratory Data Analysis (EDA). |
-| `machine_failure_analysis.xlsx`  | Excel file containing cleaned data, SQL output, and a final dashboard. |
-| `dashboard_screenshot.png`       | Screenshot of the final dashboard created in Excel. |
-| `eda_plot1.png` - `eda_plot4.png` | Visualizations generated during EDA. |
+| `Machine_Failure_Analysis.xlsx`  | Excel file containing cleaned data, SQL output, and a final dashboard. |
+| `Dashboard.png`       | Screenshot of the final dashboard created in Excel. |
 
 ---
 
