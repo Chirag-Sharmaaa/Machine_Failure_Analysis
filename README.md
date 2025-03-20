@@ -61,7 +61,7 @@ The final dashboard was created using **Pivot Tables & Charts** to summarize:
 - Monthly trends of failures.
 - Sensor values leading to failure events.
 
- ![Alt text](image_url_here)
+ ![img5](https://github.com/Chirag-Sharmaaa/Machine_Failure_Analysis/blob/main/Machine_Failure_Analysis_Project/Dashboard.png)
 
 ---
 
