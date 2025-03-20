@@ -61,7 +61,7 @@ The final dashboard was created using **Pivot Tables & Charts** to summarize:
 - Monthly trends of failures.
 - Sensor values leading to failure events.
 
-📌 _[Insert dashboard screenshot here]_  
+ ![Alt text](image_url_here)
 
 ---
 
@@ -82,7 +82,8 @@ WHERE failure_type IS NOT NULL
 GROUP BY failure_type;
 ```
 
-📌 _[Insert SQL query execution screenshot here]_  
+![Alt text](image_url_here)
+
 
 ---
 
