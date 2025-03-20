@@ -70,19 +70,31 @@ The final dashboard was created using **Pivot Tables & Charts** to summarize:
 Some key SQL queries included:
 
 ```sql
--- Count of different failure types
-SELECT failure_type, COUNT(*) AS count
-FROM machine_data
-GROUP BY failure_type;
+-- SELECT Failure, COUNT(*) AS Count 
+FROM machine_data 
+GROUP BY Failure;
 
--- Average sensor readings before failure
-SELECT failure_type, AVG(temperature), AVG(pressure), AVG(vibration)
+SELECT Machine_Type, COUNT(*) AS Failures
 FROM machine_data
-WHERE failure_type IS NOT NULL
-GROUP BY failure_type;
+WHERE Failure = 1
+GROUP BY Machine_Type
+ORDER BY Failures DESC;
+
+SELECT 
+    AVG(Temperature_C) AS Avg_Temperature_Failed,
+    AVG(Error_Rate) AS Avg_Error_Rate_Failed
+FROM machine_data
+WHERE Failure = 1;
+
+SELECT *
+FROM machine_data
+WHERE Failure = 1 AND Maintenance_History > 5;
+
+SELECT Machine_Type, MAX(Usage_Hours) AS Max_Usage_No_Failure
+FROM machine_data
+WHERE Failure = 0
+GROUP BY Machine_Type;
 ```
-
-![Alt text](image_url_here)
 
 
 ---
