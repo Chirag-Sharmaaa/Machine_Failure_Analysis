@@ -35,8 +35,6 @@ Using **SQL, Python, and Excel**, we performed **data cleaning, exploratory data
 - Converted timestamps into a readable format.
 - Standardized categorical values for better analysis.
 
-📌 _[Insert data cleaning screenshot here]_  
-
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
@@ -47,7 +45,11 @@ EDA helped us understand **failure patterns and sensor behavior**. Some key insi
 2️⃣ **Sensor Trends** – We analyzed how temperature, pressure, and other sensor readings vary before failure.
 3️⃣ **Correlation Study** – We checked if specific conditions lead to frequent failures.
 
-📌 _[Insert EDA visualizations here]_  
+
+![Alt text](image_url_here)
+![Alt text](image_url_here)
+![Alt text](image_url_here)
+![Alt text](image_url_here)
 
 ---
 
